@@ -1,18 +1,16 @@
-SparkFun <PRODUCT NAME> Arduino Library
+SparkFun DeadOn RTC Arduino Library
 ========================================
 
-![SparkFun Part Name](URL for picture of part)
+![DeadOn RTC](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/1/6/0/10160b-01_i_ma.jpg)  
 
-[*SparkFun Part Name (SKU)*](URL for product on Sparkfun.com)
+[*DeadOn RTC- DS3234 Breakout (BOB-10160)*](https://www.sparkfun.com/products/10160)
 
-<Basic description of the library.>
+This is a real time clock based on the DS3234 Real Time Clock IC. The DS3234  is a low-cost, extremely accurate SPI bus real-time clock with an integrated temperature-compensated crystal oscillator and crystal.
 
 Repository Contents
 -------------------
 
 * **/examples** - Example sketches for the library (.ino). Run these from the Arduino IDE. 
-* **/extras** - Additional documentation for the user. These files are ignored by the IDE. 
-* **/src** - Source files for the library (.cpp, .h).
 * **keywords.txt** - Keywords from this library that will be highlighted in the Arduino IDE. 
 * **library.properties** - General library properties for the Arduino package manager. 
 
@@ -20,20 +18,18 @@ Documentation
 --------------
 
 * **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
-* **[Product Repository](GitHub Product URL)** - Main repository (including hardware files) for the <PRODUCT NAME>.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
+* **[DeadOn_RTC](https://github.com/sparkfun/DeadOn_RTC)** - Main repository (including hardware files) for the <PRODUCT NAME>.
 
 Products that use this Library 
 ---------------------------------
 
-* [Part SKU](SparkFun part URL)- Basic part and short description here
-* [Part SKU](SparkFun part URL)- Basic part and short description here
+* [*DeadOn RTC- DS3234 Breakout (BOB-10160)*](https://www.sparkfun.com/products/10160)
 
 Version History
 ---------------
 
-* [vExxFxxZxxHxxLxxSxx](URL for tag specific to this version) - Description 
-* [vEyyFyyZyyHyyLyySyy](URL for tag specific to this version) - Description
+* [V_1.1.0](https://github.com/sparkfun/DeadOn_RTC/tree/V_1.1.0) - Updated to new library structure 
+* [V_1.0.0] - Un-tracked repo version
 
 License Information
 -------------------
@@ -46,6 +42,5 @@ Please use, reuse, and modify these files as you see fit. Please maintain attrib
 
 Distributed as-is; no warranty is given.
 
-- Your friends at SparkFun.
+/- Your friends at SparkFun.
 
-_<COLLABORATION CREDIT>_
