@@ -28,6 +28,7 @@ Products that use this Library
 Version History
 ---------------
 
+* [V_1.1.0](https://github.com/sparkfun/DeadOn_RTC_Arduino_Library/tree/V_1.1.1) - Fixed library.properties file
 * [V_1.1.0](https://github.com/sparkfun/DeadOn_RTC_Arduino_Library/tree/V_1.1.0) - Updated to new library structure 
 * [V_1.0.0] - Un-tracked repo version
 
